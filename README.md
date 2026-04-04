@@ -1,7 +1,7 @@
 🌐 Live Demo
 
 🔗 Website:
-https://uztelecomi-i.netlify.app/
+[https://uztelecomi-i.netlify.app/](https://uztelecom-mvp.netlify.app/)
 📌 About The Project
 
 Uztelecom — это лендинг страница, посвящённая изысканному десерту Uztelecom, который известен своей лёгкой текстурой, хрустящей корочкой и нежным кремом .
